@@ -1,1 +1,2 @@
 Olá, eu estou aprendendo git e github e tudo sobre repositórios locais e remotos
+Algumas mudanças antes de dar merge no ramoTexto4
